@@ -1,6 +1,6 @@
-## Workshop 1: **Getting Started with Amazon SageMaker: Training your first NLP Transformer model with Hugging Face and deploying it**
+##  **Getting Started with Amazon SageMaker: Training your first NLP Transformer model with Hugging Face and deploying it**
 
-In Workshop 1 you will learn how to use Amazon SageMaker to train a Hugging Face Transformer model and deploy it afterwards.
+In this repository learn how to use Amazon SageMaker to train a Hugging Face Transformer model and deploy it afterwards.
 
 - Prepare and upload a test dataset to S3
 - Prepare a fine-tuning script to be used with Amazon SageMaker Training jobs
